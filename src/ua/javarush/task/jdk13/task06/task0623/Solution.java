@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 public class Solution {
     public static int[][] array;//напишіть тут ваш код
-    // change 1
+    // change 3
     public static void main(String[] args) {
         //напишіть тут ваш код
 
